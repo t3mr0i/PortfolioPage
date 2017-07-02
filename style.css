@@ -1,0 +1,136 @@
+@charset "UTF-8";
+@import url('normalize.css');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #424242;
+}
+
+* {
+    color: white;
+    font-family: 'Product Sans', Arial, sans-serif;
+    background-color: #424242;
+}
+
+
+/* CSS Document */
+
+.text {
+    font-size: 1.3em;
+    align-content: center;
+    background-color: rgb(182, 179, 170);
+}
+
+#ich {
+    font-weight: bold;
+    font-family: 'Product Sans', sans-serif;
+    color: white;
+    font-size: 6em;
+}
+
+.ich {
+    font-weight: bold;
+    font-family: 'Product Sans', sans-serif;
+    align-content: center;
+}
+
+#ich5 {
+    color: white;
+    background-color: rgb(241, 74, 48);
+    font-family: 'Product Sans', sans-serif;
+    align-content: center;
+    font-size: 1.6em;
+    font-weight: bold;
+    display: inline-block;
+    padding: 2% 4% 2% 4%;
+}
+
+#ich5 a {
+    color: black;
+}
+
+#ich2 {
+    background-color: rgb(182, 179, 170);
+    font-weight: bold;
+    font-family: 'Product Sans', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+#me {
+    -webkit-box-shadow: -9px 11px 7px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -9px 11px 7px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: -9px 11px 7px 0px rgba(0, 0, 0, 0.75);
+    background: rgb(82, 195, 169);
+    font-size: 1.6em;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#me2 {
+    -webkit-box-shadow: -9px 11px 7px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -9px 11px 7px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: -9px 11px 7px 0px rgba(0, 0, 0, 0.75);
+    align-content: center;
+    font-size: 1.6em;
+    padding: 3%;
+    display: inline-block;
+}
+
+.me2 a {
+    line-height: 1.4;
+    text-decoration: none;
+}
+
+
+/*Social Media Section*/
+
+#ich4 {
+    background-color: rgb(82, 195, 169);
+    font-weight: bold;
+    font-family: 'Product Sans', sans-serif;
+    color: white;
+    font-size: 3em;
+    padding: 2% 8% 2% 8%;
+    align-content: center;
+    display: inline-block;
+}
+
+a #social {
+    color: rgb(82, 195, 169);
+}
+
+.me3 a {
+    line-height: 1.4;
+}
+
+#ich3 {
+    background-color: rgb(241, 74, 48);
+    font-weight: bold;
+    font-family: 'Product Sans', sans-serif;
+    color: white;
+    font-size: 2em;
+    display: block;
+}
+
+#img1 {
+    display: inline;
+}
+
+.social a {
+    font-size: 2em;
+    color: rgb(241, 74, 48);
+    background: rgb(241, 74, 48);
+}
+
+#social {
+    background-color: rgb(241, 74, 48);
+    font-weight: bold;
+    font-family: 'Product Sans', sans-serif;
+    font-size: 1.4em;
+    display: block;
+}

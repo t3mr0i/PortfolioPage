@@ -1,0 +1,39 @@
+.heading {
+    font-family: 'head';
+}
+
+@font-face {
+    font-family: 'head';
+    /*a name to be used later*/
+    src: url("font/porta.ttf");
+    /*URL to font*/
+}
+
+.jumbotron {
+    background: url(img/sky.jpg);
+    background-color: #62e2A9;
+    background-size: cover;
+}
+
+.body {
+    background-color: aqua;
+}
+
+#form {
+    background-color: #62e2A9;
+}
+
+.navbar-brand {
+    color: aqua;
+    font-size: 2rem;
+    ;
+}
+
+.btn,
+.active {
+    transition: 0.6s;
+}
+
+.btn {
+    transition: 0.3s;
+}
